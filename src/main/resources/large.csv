@@ -1,0 +1,9 @@
+Java is known for its simplicity, robustness, and security features, making it a popular choice for enterprise-level applications.
+Java applications are compiled to byte code that can run on any Java Virtual Machine.
+The syntax of Java is similar to C/C++.
+Java makes writing, compiling, and debugging programming easy.
+It helps to create reusable code and modular programs.
+Java’s history is as interesting as it is impactful.
+The journey of this powerful programming language began in 1991 when James Gosling, Mike Sheridan, and Patrick Naughton, a team of engineers at Sun Microsystems known as the “Green Team,” set out to create a new language initially called “Oak.”
+Oak was later renamed Java, inspired by Java coffee, and was first publicly released in 1996 as Java 1.0. This initial version provided a no-cost runtime environment across popular platforms, making it accessible to a broad audience.
+Arthur Van Hoff rewrote the Java 1.0 compiler to strictly comply with its specifications, ensuring its reliability and cross-platform capabilities.
